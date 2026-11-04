@@ -2,10 +2,6 @@
 
 A desktop scientific calculator built with Python and Tkinter. It has a standard mode for everyday arithmetic and a scientific mode that adds trigonometric, hyperbolic, logarithmic and other mathematical functions.
 
-<p align="center">
-  <img src="docs/images/screenshot.png" alt="Scientific Calculator screenshot (Standard mode)" width="350">
-</p>
-
 ## Features
 
 - **Basic arithmetic:** addition, subtraction, multiplication, division and modulus
